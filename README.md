@@ -1,5 +1,5 @@
 # SNHU CS370: Current/Emerging Trends in Computer Science
-SNHU CS370 Project Two: Pirate Intelligent Agent
+SNHU CS370 A reinforcement learning agent (Q-learning agent) that navigates a maze to reach a target.
 
 # Reflection
 
