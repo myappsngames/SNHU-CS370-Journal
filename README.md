@@ -1,4 +1,4 @@
-# SNHU CS370: Current/Emerging Trends in Computer Science
+# SNHU CS370: Current/Emerging Trends in Computer Science Journal
 
 # Reflection
 
