@@ -1,5 +1,4 @@
 # SNHU CS370: Current/Emerging Trends in Computer Science
-A reinforcement learning agent (Q-learning agent) that navigates a maze to reach a target.
 
 # Reflection
 
